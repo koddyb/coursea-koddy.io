@@ -1,1 +1,1 @@
-# coursea-koddy.io
+# Mon premier site statique hebergé
